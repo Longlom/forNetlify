@@ -99,7 +99,6 @@ h1 {
     -moz-transform: rotateY(180deg);
 }
 
-/*.up {*/
-/*    transform: rotateY(180deg);*/
-/*}*/
-
+.input__range {
+    margin-top: 20px;
+}
